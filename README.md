@@ -1,1 +1,1 @@
-# Algorithmik-kontinuierliche-Systeme
+# Algorithmik-kontinuierliche-Systeme (AlgoKS)
